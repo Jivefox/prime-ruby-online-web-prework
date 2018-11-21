@@ -9,6 +9,6 @@ def prime?(int)
 end
 
 def prime?(int)
-  if int < 2
-    false
+  return false if int < 2
+  return true if 
     
