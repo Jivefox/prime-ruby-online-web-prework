@@ -10,5 +10,5 @@ end
 
 def prime?(int)
   return false if int < 2
-  return true if 
+  return true if int == 2
     
