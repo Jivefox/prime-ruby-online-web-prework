@@ -7,3 +7,6 @@ def prime?(int)
     return false
   end
 end
+
+def prime?(int)
+  if int >= 2 && int 
