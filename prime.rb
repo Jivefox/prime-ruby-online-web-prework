@@ -9,4 +9,5 @@ def prime?(int)
 end
 
 def prime?(int)
-  if int >= 2 && int % 1 || int % int
+  if int >= 2
+elsif int % 1 == 0 || int % int == 0
