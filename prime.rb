@@ -9,4 +9,4 @@ def prime?(int)
 end
 
 def prime?(int)
-  if int >= 2 && int 
+  if int >= 2 && int % 1 || int % int
